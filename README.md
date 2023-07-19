@@ -70,7 +70,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 **Antonio  Carlos**
 
-* [Linkedin](https://www.linkedin.com/in/antonio-carlos-de-souza-junior-03783221b/)
+* [Linkedin](https://www.linkedin.com/in/antonio-carlos-de-souza-junior/)
 * [Gmail](mailto:acarlosdesouzajunior@gmail.com)
 * [Instagram](https://www.instagram.com/carlosdesouzajunior.antonio/)
 * [Discord](https://discord.com/channels/@me)
